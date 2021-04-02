@@ -1,5 +1,3 @@
 ```php
-<?php 
-here_pagecontent(); 
-?>
+<?php here_pagecontent(); ?>
 ```
