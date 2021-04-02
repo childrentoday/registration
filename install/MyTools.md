@@ -8,8 +8,9 @@
 По хорошему достаточно установить один рекдактор и одну IDE но если уж сильно хочется то можно себя порадовать полной коллекцией, тут опять же на любителя.
 Выбор за вами.
 
-Название редактора| Скачать можно тут
+Название редактора| Скачать можно тут    
 ------------------|----------------------
+Atom              | <https://atom.io/>
 phpstorm          | <https://www.jetbrains.com/ru-ru/phpstorm/>
 Notepad++         | <https://notepad-plus-plus.org/downloads/>
 Brackets          | <http://brackets.io/>
@@ -19,6 +20,14 @@ PhpDesigner       | <http://www.mpsoftware.dk/>
 phpexperteditor   | <https://www.phpexperteditor.com/>
 Phprad            | <https://phprad.com/>
 NetBeans          | <http://netbeans.apache.org/download/index.html>
+
+
+
+
+Регистрируемся на сайте
+https://bitbucket.org/
+https://github.com/
+
 
 
 [пример][id]:
