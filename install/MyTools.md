@@ -6,8 +6,29 @@
 Выбор большой, но все они очень похожи, тут как говорится на любителя, есть как бесплатные так и на торрентах))). 
 По хорошему достаточно установить один рекдактор и одну IDE но если сильно хочется то можно себя порадовать полной коллекцией, тут опять же на любителя.
 Выбор за вами:
-
+---
   Brackets  / Скачать можно тут http://brackets.io/.
 ---
   Notepad++ / Скачать можно тут https://notepad-plus-plus.org/downloads/
 ---
+
+ dir /fonts
+ dir /images
+ dir /js
+ 
+ ```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+```scss /* или css */
+@import "bower_components/tree-normalize/generic.normalize";
+h1 {
+ font-size:1.5em;
+ font-weight: 300;
+}
+```
+
+> Текст
+> 
+> Продолжение текста выделенного блока
+> Завершение текста
