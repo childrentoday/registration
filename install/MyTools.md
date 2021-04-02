@@ -8,16 +8,25 @@
 По хорошему достаточно установить один рекдактор и одну IDE но если уж сильно хочется то можно себя порадовать полной коллекцией, тут опять же на любителя.
 Выбор за вами.
 
-  Brackets  / Скачать можно тут <http://brackets.io/>.
----
-  Notepad++ / Скачать можно тут https://notepad-plus-plus.org/downloads/
----
+Название редактора| Скачать можно тут
+------------------|----------------------
+phpstorm          | <https://www.jetbrains.com/ru-ru/phpstorm/>
+Notepad++         | <https://notepad-plus-plus.org/downloads/>
+Brackets          | <http://brackets.io/>
+SublimeTect       | <https://www.sublimetext.com/>
+PhpEdit           | <https://phpedit.en.softonic.com/>
+PhpDesigner       | <http://www.mpsoftware.dk/>
+phpexperteditor   | <https://www.phpexperteditor.com/>
+Phprad            | <https://phprad.com/>
+NetBeans          | <http://netbeans.apache.org/download/index.html>
+
 
 [пример][id]:
 
-[пример] [id]: 
+[пример] [1]: 
 
 [id]: http://example.com/ "Необязательная подсказка"
+[1]:  http://myexample.com/ "подсказка"
 
 h1 заголовок первого уровня
 =====================
