@@ -7,7 +7,7 @@
 По хорошему достаточно установить один рекдактор и одну IDE но если сильно хочется то можно себя порадовать полной коллекцией, тут опять же на любителя.
 Выбор за вами:
 
--- Brackets  / Скачать можно тут http://brackets.io/.
-***
--- Notepad++ / Скачать можно тут https://notepad-plus-plus.org/downloads/
---  
+  Brackets  / Скачать можно тут http://brackets.io/.
+---
+  Notepad++ / Скачать можно тут https://notepad-plus-plus.org/downloads/
+---
