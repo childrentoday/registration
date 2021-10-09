@@ -1,2 +1,2 @@
 # phpconstructor
-Learning php step by step.
+Система регистрации на любом сайте.
